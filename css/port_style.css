@@ -71,7 +71,7 @@ body {
 #nrcanlogo{
 	display:block; 
 	float:left; 
-	margin-left:80px;
+	margin-left:100px;
 }
 #GIlogo2{
 	margin: 0 auto;
@@ -231,7 +231,7 @@ ul ul a {
 	}
 	#nrcanlogo{
 		width:20%;
-		margin-left:5%;
+		margin-left:3%;
 	}
 	#GIlogo2{
 		width:30%;
