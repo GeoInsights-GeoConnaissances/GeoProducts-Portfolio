@@ -1,4 +1,4 @@
-# GeoInsights-Portfolio
+# GeoInsights Portfolio
 
 GeoInsights falls within the Federal Geospatial Platform (FGP) and builds on the principals of the FGP in providing value for Canadians and the Government of Canada. 
 The portfolio highlights select recent projects developed and supported by GeoInsights.
