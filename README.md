@@ -1,3 +1,5 @@
+This GitHub page is to provide a web-based interactive format of a project portfolio.
+
 # GeoInsights Portfolio
 
 GeoInsights falls within the Federal Geospatial Platform (FGP) and builds on the principals of the FGP in providing value for Canadians and the Government of Canada. 
