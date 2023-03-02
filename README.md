@@ -14,4 +14,4 @@ For support please email geoproducts-geoproduits@nrcan-rncan.gc.ca
 
 © His Majesty the King in Right of Canada, as represented by the Minister of Natural Resources
 
-© Sa Majesté la Roi du Chef du Canada, représentée par le ministre des Ressources naturelles
+© Sa Majesté la Roi du Chef du Canada, représenté par le ministre des Ressources naturelles
